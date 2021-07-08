@@ -5,3 +5,4 @@ vmess=34.64.73.89:30080, method=none, password=bb794034-e11f-4f57-adcd-f7637edd0
 vmess=35.198.243.145:30080, method=none, password=b55ec73f-5ecb-4bb8-93fa-025afa883333, fast-open=false, udp-relay=false, tag=GCP-SG
 vmess=35.229.192.86:30080, method=none, password=2e15138e-2632-447e-896a-3a74b0bc6002, fast-open=false, udp-relay=false, tag=GCP-TW
 vmess=35.247.169.44:30080, method=none, password=cc1a1bce-779f-41d3-a369-d6189ce0bc78, fast-open=false, udp-relay=false, tag=GCP-SG-NFipv6
+vmess=34.92.199.118:30080, method=none, password=4b501c8d-d543-43f8-8923-48c30c73442f, fast-open=false, udp-relay=false, tag=GCP-HK-NFipv6
