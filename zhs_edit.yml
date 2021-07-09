@@ -134,6 +134,14 @@ proxies:
   alterId: 0
   cipher: auto
 
+- name: "HKNF"
+  type: vmess
+  server: 34.92.199.118
+  port: 30080
+  uuid: 4b501c8d-d543-43f8-8923-48c30c73442f
+  alterId: 0
+  cipher: auto
+
 proxy-groups:
 
   - name: 🚧Proxy
