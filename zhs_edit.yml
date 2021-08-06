@@ -126,21 +126,6 @@ proxies:
   alterId: 0
   cipher: none
 
-- name: "SGNF35.247.169.44"
-  type: vmess
-  server: 35.247.169.44
-  port: 30080
-  uuid: cc1a1bce-779f-41d3-a369-d6189ce0bc78
-  alterId: 0
-  cipher: auto
-
-- name: "HKNF"
-  type: vmess
-  server: 34.92.199.118
-  port: 30080
-  uuid: 4b501c8d-d543-43f8-8923-48c30c73442f
-  alterId: 0
-  cipher: auto
 
 proxy-groups:
 
