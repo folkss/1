@@ -120,7 +120,7 @@ proxies:
 
 - name: "tw35.229.192.86"
   type: vmess
-  server: 35.229.192.86
+  server: 34.80.27.207
   port: 30080
   uuid: 2e15138e-2632-447e-896a-3a74b0bc6002
   alterId: 0
