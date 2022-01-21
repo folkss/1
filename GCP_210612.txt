@@ -1,6 +1,6 @@
 vmess=34.92.224.58:30080, method=none, password=bd27ec58-636c-4dc7-8d0e-81aa7c0a3126, fast-open=false, udp-relay=false, tag=GCP-HK
 vmess=34.84.102.177:30080, method=none, password=cb7ad5d8-38a3-4592-9752-1f8e329b4660, fast-open=false, udp-relay=false, tag=GCP-JP
 vmess=35.238.79.200:30080, method=none, password=cc45f43e-7021-4bd7-b7fa-27825c603a3e, fast-open=false, udp-relay=false, tag=GCP-US
-vmess=34.64.73.89:30080, method=none, password=bb794034-e11f-4f57-adcd-f7637edd0fa7, fast-open=false, udp-relay=false, tag=GCP-KR
+vmess=34.64.76.254:30080, method=none, password=91f5bbac-68bf-4814-8d15-bd86504c5bc5, fast-open=false, udp-relay=false, tag=GCP-KR
 vmess=35.198.243.145:30080, method=none, password=b55ec73f-5ecb-4bb8-93fa-025afa883333, fast-open=false, udp-relay=false, tag=GCP-SG
 vmess=34.80.27.207:30080, method=none, password=d3a53ae7-b6fa-4424-9156-f8c74298a605, fast-open=false, udp-relay=false, tag=GCP-TW
