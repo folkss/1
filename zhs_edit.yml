@@ -112,9 +112,9 @@ proxies:
 
 - name: "hk34.92.224.58"
   type: vmess
-  server: 34.92.224.58
+  server: 13.214.251.46
   port: 30080
-  uuid: bd27ec58-636c-4dc7-8d0e-81aa7c0a3126
+  uuid: a067013b-cf81-44ad-80aa-6df7f62c012f
   alterId: 0
   cipher: none
 
