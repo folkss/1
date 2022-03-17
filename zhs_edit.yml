@@ -96,9 +96,9 @@ proxies:
 
 - name: "jp34.84.102.177"
   type: vmess
-  server: 34.84.102.177
+  server: 64.227.187.91
   port: 30080
-  uuid: cb7ad5d8-38a3-4592-9752-1f8e329b4660
+  uuid: af095f9a-77eb-40b8-ad49-74eb56436d08
   alterId: 0
   cipher: none
 
