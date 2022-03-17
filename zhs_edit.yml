@@ -79,9 +79,9 @@ dns:
 proxies:
 - name: "us35.238.79.200"
   type: vmess
-  server: 35.238.79.200
+  server: 164.92.92.39
   port: 30080
-  uuid: cc45f43e-7021-4bd7-b7fa-27825c603a3e
+  uuid: ebc55e8c-e3c6-4f13-8fb3-29cfd8c7bd49
   alterId: 0
   cipher: none
  
