@@ -120,9 +120,9 @@ proxies:
 
 - name: "tw35.229.192.86"
   type: vmess
-  server: 34.81.131.201
+  server: 207.2.122.135
   port: 30080
-  uuid: d3a53ae7-b6fa-4424-9156-f8c74298a605
+  uuid: 12ca3e0e-a4cb-4df8-ac58-5ab3f5a30514
   alterId: 0
   cipher: none
 
