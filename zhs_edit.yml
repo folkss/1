@@ -77,7 +77,7 @@ dns:
     ipcidr:
     # - 240.0.0.0/4
 proxies:
-- name: "us35.238.79.200"
+- name: "usDO"
   type: vmess
   server: 164.92.92.39
   port: 30080
@@ -94,7 +94,7 @@ proxies:
   alterId: 0
   cipher: none
 
-- name: "jp34.84.102.177"
+- name: "indiaDO"
   type: vmess
   server: 64.227.187.91
   port: 30080
@@ -118,7 +118,7 @@ proxies:
   alterId: 0
   cipher: none
 
-- name: "tw35.229.192.86"
+- name: "usBOOMER"
   type: vmess
   server: 207.2.122.135
   port: 30080
@@ -133,12 +133,12 @@ proxy-groups:
     type: select
     proxies:
     - DIRECT
-    - 'us35.238.79.200'
+    - 'usDO'
     - 'sg35.198.243.145'
-    - 'jp34.84.102.177'
+    - 'indiaDO'
     - 'kr34.64.76.254'
     - 'hk34.92.224.58'
-    - 'tw35.229.192.86'
+    - 'usBOOMER'
   
     
 
@@ -147,12 +147,12 @@ proxy-groups:
     proxies:
     - 🚧Proxy
     - DIRECT
-    - 'us35.238.79.200'
+    - 'usDO'
     - 'sg35.198.243.145'
-    - 'jp34.84.102.177'
+    - 'indiaDO'
     - 'kr34.64.76.254'
     - 'hk34.92.224.58'
-    - 'tw35.229.192.86'
+    - 'usBOOMER'
   
 
   - name: 📺爱奇艺等国内流媒体
@@ -161,12 +161,12 @@ proxy-groups:
     - DIRECT
     - 🇨🇳国内网站或资源
     - 🚧Proxy
-    - 'us35.238.79.200'
+    - 'usDO'
     - 'sg35.198.243.145'
-    - 'jp34.84.102.177'
+    - 'indiaDO'
     - 'kr34.64.76.254'
     - 'hk34.92.224.58'
-    - 'tw35.229.192.86'
+    - 'usBOOMER'
   
 
   - name: 🇨🇳国内网站或资源
@@ -174,24 +174,24 @@ proxy-groups:
     proxies:
     - DIRECT
     - 🚧Proxy
-    - 'us35.238.79.200'
+    - 'usDO'
     - 'sg35.198.243.145'
-    - 'jp34.84.102.177'
+    - 'indiaDO'
     - 'kr34.64.76.254'
     - 'hk34.92.224.58'
-    - 'tw35.229.192.86'
+    - 'usBOOMER'
   
   - name: 🌵其它规则外
     type: select
     proxies:
     - 🚧Proxy
     - DIRECT
-    - 'us35.238.79.200'
+    - 'usDO'
     - 'sg35.198.243.145'
-    - 'jp34.84.102.177'
+    - 'indiaDO'
     - 'kr34.64.76.254'
     - 'hk34.92.224.58'
-    - 'tw35.229.192.86'
+    - 'usBOOMER'
   
 rule-providers:
   Unbreak:
