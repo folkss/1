@@ -88,9 +88,9 @@ proxies:
 # VMess
 - name: "sg35.198.243.145"
   type: vmess
-  server: 138.2.85.186
+  server: 138.2.86.229
   port: 30080
-  uuid: 69753598-18b4-47ff-b8df-a1c4c5b8e5f0
+  uuid: c82fcfa5-fd65-43fc-a1ef-a3a43cf1eb41
   alterId: 0
   cipher: none
 
