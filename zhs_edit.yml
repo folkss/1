@@ -104,9 +104,9 @@ proxies:
 
 - name: "kr34.64.76.254"
   type: vmess
-  server: 34.64.76.254
+  server: out.cfss.site
   port: 30080
-  uuid: 91f5bbac-68bf-4814-8d15-bd86504c5bc5
+  uuid: cee41939-0869-41df-bbd2-c4f653b4e7ba
   alterId: 0
   cipher: none
 
