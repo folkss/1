@@ -103,9 +103,9 @@ proxies:
   cipher: auto
   #上面几行为必选参数
   #下面几行为可选参数  根据你的配置情况来
-   udp: true    #默认不开启
+  udp: true    #默认不开启
   tls: true      #TLS开启
-   skip-cert-verify: true     #默认不开启
+  skip-cert-verify: true     #默认不开启
   network: ws    # 网路类型 WS HTTP等
   ws-path: /path  # 路径
   # ws-headers:     #默认不开启
@@ -128,13 +128,14 @@ proxies:
   cipher: auto
   #上面几行为必选参数
   #下面几行为可选参数  根据你的配置情况来
-  # udp: true    #默认不开启
+  udp: true    #默认不开启
   tls: true      #TLS开启
   # skip-cert-verify: true     #默认不开启
   network: ws    # 网路类型 WS HTTP等
   ws-path: /path  # 路径
   # ws-headers:     #默认不开启
   Host: out.cfss.site    # HOST
+  
 
 - name: "usBOOMER"
   type: vmess
