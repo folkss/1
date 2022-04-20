@@ -95,21 +95,21 @@ proxies:
   cipher: none
 
 - name: "indiaDO"
-   type: ss
-   server: shcu3.forgebukkit.com
-   port: 443
-   cipher: auto
-   password: "b82c940e-abae-4f0d-afc4-336be9a16dae"
-   plugin: v2ray-plugin
-   plugin-opts:
-   mode: websocket # no QUIC now
-   tls: true # wss
-   # skip-cert-verify: true
-   host: out.cfss.site
-   path: "/s"
-   # mux: true
-   # headers:
-   #   custom: value```
+  type: ss
+  server: shcu3.forgebukkit.com
+  port: 443
+  cipher: auto
+  password: "b82c940e-abae-4f0d-afc4-336be9a16dae"
+  plugin: v2ray-plugin
+  plugin-opts:
+  mode: websocket # no QUIC now
+  tls: true # wss
+  # skip-cert-verify: true
+  host: out.cfss.site
+  path: "/s"
+  # mux: true
+  # headers:
+  #   custom: value```
 
 - name: "kr34.64.76.254"
   type: vmess
