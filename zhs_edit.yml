@@ -102,14 +102,14 @@ proxies:
    password: "b82c940e-abae-4f0d-afc4-336be9a16dae"
    plugin: v2ray-plugin
    plugin-opts:
-     mode: websocket # no QUIC now
-     tls: true # wss
-     # skip-cert-verify: true
-     host: out.cfss.site
-     path: "/s"
-     # mux: true
-     # headers:
-     #   custom: value```
+   mode: websocket # no QUIC now
+   tls: true # wss
+   # skip-cert-verify: true
+   host: out.cfss.site
+   path: "/s"
+   # mux: true
+   # headers:
+   #   custom: value```
 
 - name: "kr34.64.76.254"
   type: vmess
